@@ -20,10 +20,6 @@ namespace Fortnite
 			foreach (string text2 in args)
 			{
 				bool flag = text2.Contains("-epicusername=");
-				bool flag2 = flag;
-				if (flag2)
-				{
-					str = text2.Replace("-epicusername=", "");
 				}
 				text = text + text2 + " ";
 			}
