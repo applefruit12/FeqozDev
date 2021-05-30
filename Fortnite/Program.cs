@@ -28,19 +28,14 @@ namespace Fortnite
 				text = text + text2 + " ";
 			}
 			Console.WriteLine("Welcome to AppleFN! Welcome " + str);
+		// APPLEFN  LEAKS LOL
+		 // I NAMED IT TO APPLE FN BC WHY NOT
 			Console.WriteLine("Disabling Anti-Cheat!");
 			Console.WriteLine("Injecting Dll!");
 			Console.WriteLine("Launching Fortnite!");
 			Process.Start("FortniteClient-Win64-Shipping.exe", text);
 			Process[] processes = Process.GetProcesses();
-			foreach (Process process in processes)
-			{
-				bool flag3 = process.ProcessName.Contains("FortniteClient-Win64-Shipping");
-				
-				bool flag4 = flag3;
-				if (flag4)
-					MessageBox.Show("Click Ok To Inject AppleFN!");
-				
+		
 			
 			{
 					Console.WriteLine("Fortnite Launched!");
