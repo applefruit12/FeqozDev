@@ -1,0 +1,17 @@
+C:\Users\Mike Fitch\Downloads\Fortnite\Fortnite\bin\Debug\Fortnite.exe
+C:\Users\Mike Fitch\Downloads\Fortnite\Fortnite\bin\Debug\Fortnite.pdb
+C:\Users\Mike Fitch\Downloads\Fortnite\Fortnite\obj\x64\Debug\Fortnite.csprojAssemblyReference.cache
+C:\Users\Mike Fitch\Downloads\Fortnite\Fortnite\obj\x64\Debug\Fortnite.csproj.CoreCompileInputs.cache
+C:\Users\Mike Fitch\Downloads\Fortnite\Fortnite\obj\x64\Debug\Fortnite.exe
+C:\Users\Mike Fitch\Downloads\Fortnite\Fortnite\obj\x64\Debug\Fortnite.pdb
+C:\Users\Mike Fitch\Desktop\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\bin\Debug\Fortnite.exe
+C:\Users\Mike Fitch\Desktop\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\bin\Debug\Fortnite.pdb
+C:\Users\Mike Fitch\Desktop\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\obj\x64\Debug\Fortnite.csprojAssemblyReference.cache
+C:\Users\Mike Fitch\Desktop\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\obj\x64\Debug\Fortnite.csproj.CoreCompileInputs.cache
+C:\Users\Mike Fitch\Desktop\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\obj\x64\Debug\Fortnite.exe
+C:\Users\Mike Fitch\Desktop\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\obj\x64\Debug\Fortnite.pdb
+C:\Users\Mike Fitch\Desktop\Main Coding Stuff\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\bin\Debug\Fortnite.exe
+C:\Users\Mike Fitch\Desktop\Main Coding Stuff\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\bin\Debug\Fortnite.pdb
+C:\Users\Mike Fitch\Desktop\Main Coding Stuff\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\obj\x64\Debug\Fortnite.csproj.CoreCompileInputs.cache
+C:\Users\Mike Fitch\Desktop\Main Coding Stuff\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\obj\x64\Debug\Fortnite.exe
+C:\Users\Mike Fitch\Desktop\Main Coding Stuff\ANTI CHEAT THINGY IDK\Fortnite\Fortnite\obj\x64\Debug\Fortnite.pdb
